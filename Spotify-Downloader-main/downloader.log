@@ -1,0 +1,1308 @@
+2025-01-12 07:24:13,242 - Spotify OAuth setup error: No client_id. Pass it or set a SPOTIPY_CLIENT_ID environment variable.
+2025-01-12 07:24:26,339 - Spotify OAuth setup error: No client_id. Pass it or set a SPOTIPY_CLIENT_ID environment variable.
+2025-01-12 07:25:06,005 - Spotify OAuth setup error: No redirect_uri. Pass it or set a SPOTIPY_REDIRECT_URI environment variable.
+2025-01-12 07:25:12,949 - Spotify OAuth setup error: No redirect_uri. Pass it or set a SPOTIPY_REDIRECT_URI environment variable.
+2025-01-13 05:53:35,204 - Spotify OAuth setup error: No redirect_uri. Pass it or set a SPOTIPY_REDIRECT_URI environment variable.
+2025-01-13 06:03:34,244 - Spotify OAuth setup error: No redirect_uri. Pass it or set a SPOTIPY_REDIRECT_URI environment variable.
+2025-01-13 06:05:29,987 - Spotify OAuth setup error: No redirect_uri. Pass it or set a SPOTIPY_REDIRECT_URI environment variable.
+2025-01-13 06:12:39,278 - Processing Your Power by Billie Eilish...
+2025-01-13 06:12:47,000 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:12:51,597 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:12:55,087 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:12:58,753 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:02,511 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:05,977 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:09,417 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:12,883 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:17,253 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:20,904 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:24,577 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:27,935 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:31,375 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:34,502 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:37,758 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:41,076 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:44,304 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:47,821 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:51,550 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:55,184 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:13:58,905 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:02,239 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:05,578 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:08,913 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:12,420 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:16,228 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:19,391 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:22,860 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:26,171 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:29,757 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:33,098 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:36,157 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:39,509 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:42,557 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:45,999 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:49,117 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:52,241 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:55,638 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:14:58,928 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:02,234 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:05,446 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:05,662 - Processing Bored by Billie Eilish...
+2025-01-13 06:15:08,596 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:12,578 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:12,700 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:16,290 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:17,467 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:20,103 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:21,987 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:24,051 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:26,287 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:28,428 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:30,221 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:32,136 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:33,887 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:35,855 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:38,265 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:39,728 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:43,434 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:43,966 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:48,731 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:48,745 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:52,767 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:53,378 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:56,772 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:15:57,860 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:00,510 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:01,920 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:04,357 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:05,864 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:08,080 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:09,635 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:11,867 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:13,605 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:15,480 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:17,193 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:19,093 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:20,815 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:23,011 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:24,589 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:26,906 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:28,590 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:31,116 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:32,511 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:35,121 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:36,505 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:39,046 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:40,497 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:43,162 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:44,615 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:47,353 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:48,561 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:51,735 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:52,704 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:55,928 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:16:56,870 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:00,294 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:01,746 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:05,070 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:06,127 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:09,734 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:10,663 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:14,065 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:14,996 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:18,931 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:19,327 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:24,649 - Processing Snowman by Sia...
+2025-01-13 06:17:24,650 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:24,726 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:29,093 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:29,844 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:33,992 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:34,307 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:35,623 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:39,073 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:40,156 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:41,956 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:43,796 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:45,726 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:47,861 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:49,636 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:52,307 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:54,729 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:54,930 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:17:57,070 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:00,017 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:00,017 - Retrying download for Your Power... 2 attempts left.
+2025-01-13 06:18:00,533 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:02,018 - Processing Your Power by Billie Eilish...
+2025-01-13 06:18:02,368 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:04,197 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:07,806 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:09,827 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:10,239 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:12,562 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:15,382 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:15,826 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:18,695 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:21,106 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:21,580 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:24,303 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:26,641 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:27,078 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:29,695 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:32,176 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:32,605 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:34,888 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:37,414 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:38,218 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:40,368 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:42,298 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:43,883 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:46,599 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:47,135 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:49,299 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:52,098 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:52,279 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:54,448 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:57,405 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:57,833 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:18:59,869 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:03,300 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:03,312 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:05,409 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:07,836 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:09,502 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:11,349 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:12,510 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:15,242 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:16,611 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:17,793 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:20,914 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:21,701 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:22,764 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:26,093 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:26,918 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:28,141 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:30,869 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:32,181 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:33,790 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:35,672 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:37,417 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:38,615 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:40,764 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:43,300 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:43,779 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:45,762 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:48,764 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:49,021 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:50,881 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:54,091 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:54,186 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:56,099 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:58,977 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:19:59,414 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:01,676 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:04,260 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:04,572 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:07,249 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:09,981 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:10,044 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:11,676 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:14,764 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:15,215 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:16,955 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:19,745 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:20,192 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:21,868 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:24,554 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:25,122 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:26,976 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:30,256 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:30,319 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:32,643 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:35,280 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:35,546 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:37,922 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:39,322 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:40,735 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:42,869 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:44,313 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:45,913 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:47,484 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:49,461 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:50,623 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:53,102 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:54,906 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:55,581 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:57,323 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:20:59,976 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:00,604 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:02,702 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:04,508 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:05,795 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:07,680 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:09,360 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:10,553 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:12,297 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:14,998 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:15,373 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:18,089 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:20,117 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:20,600 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:22,625 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:24,592 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:25,786 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:28,255 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:29,422 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:31,148 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:33,356 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:34,910 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:36,197 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:38,881 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:39,509 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:41,508 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:44,314 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:44,883 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:46,859 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:49,663 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:50,121 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:52,004 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:54,939 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:55,289 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:57,235 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:21:59,302 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:01,558 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:01,861 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:03,967 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:06,580 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:07,076 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:08,906 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:11,715 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:12,075 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:14,129 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:17,105 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:17,152 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:19,123 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:21,778 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:23,883 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:24,426 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:26,202 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:29,221 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:29,404 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:31,691 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:33,192 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:35,359 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:37,280 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:38,285 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:40,072 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:42,221 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:43,960 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:45,166 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:46,797 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:49,801 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:50,461 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:52,318 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:55,274 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:56,032 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:22:57,516 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:00,114 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:02,202 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:03,504 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:05,169 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:07,193 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:08,951 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:10,255 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:12,499 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:14,164 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:15,545 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:17,444 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:19,313 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:20,567 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:22,714 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:25,319 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:26,072 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:27,642 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:27,643 - Retrying download for Bored... 2 attempts left.
+2025-01-13 06:23:29,666 - Processing Bored by Billie Eilish...
+2025-01-13 06:23:30,513 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:31,372 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:34,671 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:36,972 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:37,512 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:39,165 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:41,167 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:44,105 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:44,319 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:46,522 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:49,128 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:50,060 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:51,568 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:53,576 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:55,729 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:56,577 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:23:58,484 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:01,210 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:01,612 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:03,348 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:06,459 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:06,522 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:08,375 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:12,112 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:12,373 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:14,305 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:17,451 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:17,540 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:19,580 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:22,306 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:23,070 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:24,708 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:26,991 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:29,407 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:29,967 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:32,099 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:34,387 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:35,058 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:37,197 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:40,037 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:40,235 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:42,728 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:45,127 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:45,946 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:47,649 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:50,224 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:50,778 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:50,793 - Retrying download for Your Power... 1 attempts left.
+2025-01-13 06:24:52,839 - Processing Your Power by Billie Eilish...
+2025-01-13 06:24:53,090 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:54,332 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:56,949 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:59,512 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:24:59,986 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:02,483 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:05,276 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:06,195 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:07,482 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:09,188 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:11,251 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:13,355 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:14,082 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:15,975 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:18,905 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:19,235 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:21,927 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:24,036 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:24,408 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:26,416 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:29,464 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:29,728 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:31,650 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:34,330 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:34,782 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:36,636 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:39,104 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:40,117 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:41,780 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:44,404 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:44,806 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:47,258 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:50,279 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:50,280 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:52,239 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:55,090 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:55,091 - Retrying download for Snowman... 2 attempts left.
+2025-01-13 06:25:55,396 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:57,034 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:25:57,097 - Processing Snowman by Sia...
+2025-01-13 06:25:58,729 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:00,593 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:03,279 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:04,104 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:06,147 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:08,010 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:09,282 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:11,216 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:12,912 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:14,783 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:16,321 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:18,173 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:19,994 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:21,617 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:22,923 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:24,685 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:27,592 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:27,770 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:29,631 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:32,290 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:32,607 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:34,804 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:37,128 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:37,522 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:39,734 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:42,381 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:43,013 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:45,335 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:46,781 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:47,827 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:50,275 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:52,793 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:52,903 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:54,573 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:57,333 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:58,304 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:26:59,309 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:01,414 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:03,485 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:04,395 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:06,264 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:07,990 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:09,607 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:11,177 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:12,795 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:15,083 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:15,772 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:17,601 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:20,317 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:20,567 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:22,560 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:25,413 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:25,763 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:27,615 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:29,750 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:31,136 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:32,591 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:34,694 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:35,784 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:37,994 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:39,687 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:40,871 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:43,549 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:45,024 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:45,906 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:47,602 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:50,475 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:50,724 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:52,884 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:55,341 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:55,715 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:27:58,539 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:00,812 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:01,823 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:03,452 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:05,757 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:07,547 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:08,504 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:10,305 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:12,676 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:14,029 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:15,352 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:17,659 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:19,189 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:20,644 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:23,012 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:24,463 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:25,806 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:27,992 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:29,712 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:31,060 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:33,228 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:35,869 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:36,390 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:38,398 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:41,108 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:41,412 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:43,499 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:46,050 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:46,775 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:48,919 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:50,822 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:52,193 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:54,194 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:56,355 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:57,276 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:28:59,058 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:01,778 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:02,324 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:04,490 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:06,417 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:07,601 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:09,694 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:11,702 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:12,329 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:14,225 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:16,842 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:17,315 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:19,399 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:21,231 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:23,010 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:25,391 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:25,852 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:27,887 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:31,152 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:31,341 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:32,753 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:36,676 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:37,148 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:38,363 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:40,901 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:42,469 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:43,459 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:45,577 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:47,837 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:48,699 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:50,599 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:53,138 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:53,463 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:55,449 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:58,523 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:29:58,601 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:00,707 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:03,406 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:04,015 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:05,872 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:08,844 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:08,931 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:11,145 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:13,592 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:13,963 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:16,011 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:18,689 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:18,981 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:21,035 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:23,667 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:24,115 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:26,324 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:28,919 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:29,258 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:31,317 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:31,464 - Processing Snowman by Sia...
+2025-01-13 06:30:33,278 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:34,926 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:36,333 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:36,355 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:38,232 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:40,282 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:41,429 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:41,770 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:43,940 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:44,309 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:46,634 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:47,051 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:48,263 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:49,010 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:51,961 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:52,082 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:52,604 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:54,408 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:55,893 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:56,730 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:58,693 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:59,197 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:30:59,932 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:02,147 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:05,335 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:05,398 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:07,191 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:09,077 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:11,887 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:12,139 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:14,252 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:16,660 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:17,126 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:19,031 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:21,630 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:22,444 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:24,449 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:26,962 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:27,224 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:29,866 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:32,837 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:33,150 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:34,683 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:38,255 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:38,294 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:40,082 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:43,098 - Error downloading video for Your Power: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:43,130 - Retrying download for Your Power... 0 attempts left.
+2025-01-13 06:31:43,570 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:45,163 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:45,163 - Download completed for playlist.
+2025-01-13 06:31:47,682 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:49,118 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:49,119 - Retrying download for Bored... 1 attempts left.
+2025-01-13 06:31:51,119 - Processing Bored by Billie Eilish...
+2025-01-13 06:31:51,540 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:56,152 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:31:56,935 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:32:00,370 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:32:01,720 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:32:04,330 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:32:06,006 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:32:08,144 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:32:10,008 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:32:11,682 - Error downloading video for Snowman: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:32:13,833 - Error downloading video for Bored: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:07,849 - Processing \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a by Elmes Edena...
+2025-01-13 06:34:13,261 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:16,774 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:20,001 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:23,169 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:26,487 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:30,222 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:34,589 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:38,145 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:41,599 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:45,078 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:48,283 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:54,074 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:34:57,291 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:35:00,616 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:35:03,745 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:35:06,876 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:35:09,932 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:35:13,160 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:35:16,476 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:36:43,928 - Processing \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a by Elmes Edena...
+2025-01-13 06:36:48,567 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:36:51,547 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:36:54,580 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:36:57,686 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:41:08,131 - Processing \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a by Elmes Edena...
+2025-01-13 06:41:12,509 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:41:16,062 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:41:19,470 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:41:22,587 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:41:26,311 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:42:11,949 - Processing \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a by Elmes Edena...
+2025-01-13 06:42:16,174 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:53:13,068 - Processing \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a by Elmes Edena...
+2025-01-13 06:53:17,225 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:53:20,471 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:53:23,507 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:53:26,524 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:53:29,597 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:55:33,191 - Processing \u0648\u0641\u064a\u0645\u0627 \u0623\u0638\u0646\u0647 \u0644\u0627 \u064a\u0633\u062a\u062c\u064a\u0628 by Mariam Helmy...
+2025-01-13 06:55:40,949 - Error downloading video for \u0648\u0641\u064a\u0645\u0627 \u0623\u0638\u0646\u0647 \u0644\u0627 \u064a\u0633\u062a\u062c\u064a\u0628: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:55:44,222 - Error downloading video for \u0648\u0641\u064a\u0645\u0627 \u0623\u0638\u0646\u0647 \u0644\u0627 \u064a\u0633\u062a\u062c\u064a\u0628: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:57:29,874 - Processing \u0648\u0641\u064a\u0645\u0627 \u0623\u0638\u0646\u0647 \u0644\u0627 \u064a\u0633\u062a\u062c\u064a\u0628 by Mariam Helmy...
+2025-01-13 06:57:34,306 - Error downloading video for \u0648\u0641\u064a\u0645\u0627 \u0623\u0638\u0646\u0647 \u0644\u0627 \u064a\u0633\u062a\u062c\u064a\u0628: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:58:18,354 - Processing \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a by Elmes Edena...
+2025-01-13 06:58:22,483 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:58:25,700 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 06:58:29,101 - Error downloading video for \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2025-01-13 07:02:29,846 - Processing \u0627\u0645\u0633\u0643 \u064a\u0627\u0631\u0628 \u0627\u064a\u062f\u064a by Elmes Edena...
+2025-01-13 07:02:37,438 - Downloaded successfully: D:/Music/Spotify\Tranem\Elmes Edena -   .mp3
+2025-01-13 07:02:37,441 - Processing Fe Waqt Daafy Araka Tashfy by Better Life...
+2025-01-13 07:02:47,974 - Downloaded successfully: D:/Music/Spotify\Tranem\Better Life - Fe Waqt Daafy Araka Tashfy.mp3
+2025-01-13 07:02:47,977 - Processing Ya Rab Esma Salaty - \u064a\u0627\u0631\u0628 \u0627\u0633\u0645\u0639 \u0635\u0644\u0627\u062a\u0649 by Archangel Michael and St Tekla Coptic Orthodox Church...
+2025-01-13 07:02:57,905 - Downloaded successfully: D:/Music/Spotify\Tranem\Archangel Michael and St Tekla Coptic Orthodox Church - Ya Rab Esma Salaty -   .mp3
+2025-01-13 07:02:57,909 - Processing Etamen Khayef Leeh by Better Life...
+2025-01-13 07:03:09,828 - Downloaded successfully: D:/Music/Spotify\Tranem\Better Life - Etamen Khayef Leeh.mp3
+2025-01-13 07:03:09,830 - Processing \u0645\u0631\u064a\u062d \u0627\u0644\u062a\u0639\u0627\u0628\u0649 by \u0641\u0631\u064a\u0642 \u0627\u0644\u0631\u0624\u064a\u0629...
+2025-01-13 07:03:20,345 - Downloaded successfully: D:/Music/Spotify\Tranem\  -  .mp3
+2025-01-13 07:03:20,346 - Download completed for playlist.
+2025-01-13 07:05:19,859 - Processing Your Power by Billie Eilish...
+2025-01-13 07:05:32,219 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - Your Power.mp3
+2025-01-13 07:05:32,222 - Processing i hate u, i love u (feat. olivia o'brien) by gnash...
+2025-01-13 07:05:41,943 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\gnash - i hate u i love u (feat. olivia obrien).mp3
+2025-01-13 07:05:41,945 - Processing Bruises by Lewis Capaldi...
+2025-01-13 07:05:51,505 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lewis Capaldi - Bruises.mp3
+2025-01-13 07:05:51,508 - Processing WILDFLOWER by Billie Eilish...
+2025-01-13 07:06:01,530 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - WILDFLOWER.mp3
+2025-01-13 07:06:01,532 - Processing you were good to me by Jeremy Zucker...
+2025-01-13 07:06:12,127 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Jeremy Zucker - you were good to me.mp3
+2025-01-13 07:06:12,130 - Processing drivers license by Olivia Rodrigo...
+2025-01-13 07:06:22,881 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - drivers license.mp3
+2025-01-13 07:06:22,883 - Processing What Was I Made For? [From The Motion Picture "Barbie"] by Billie Eilish...
+2025-01-13 07:06:34,996 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - What Was I Made For From The Motion Picture Barbie.mp3
+2025-01-13 07:06:34,998 - Processing Cinnamon Girl by Lana Del Rey...
+2025-01-13 07:06:46,084 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Cinnamon Girl.mp3
+2025-01-13 07:06:46,086 - Processing One Day by Tate McRae...
+2025-01-13 07:06:57,516 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Tate McRae - One Day.mp3
+2025-01-13 07:06:57,519 - Processing Train Wreck by James Arthur...
+2025-01-13 07:07:06,529 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\James Arthur - Train Wreck.mp3
+2025-01-13 07:07:06,531 - Processing i wish i hated you by Ariana Grande...
+2025-01-13 07:07:14,655 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ariana Grande - i wish i hated you.mp3
+2025-01-13 07:07:14,659 - Processing Happiest Year by Jaymes Young...
+2025-01-13 07:07:25,825 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Jaymes Young - Happiest Year.mp3
+2025-01-13 07:07:25,827 - Processing SKINNY by Billie Eilish...
+2025-01-13 07:07:35,592 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - SKINNY.mp3
+2025-01-13 07:07:35,595 - Processing Angels Like You by Miley Cyrus...
+2025-01-13 07:07:46,255 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Miley Cyrus - Angels Like You.mp3
+2025-01-13 07:07:46,257 - Processing The Heart Wants What It Wants by Selena Gomez...
+2025-01-13 07:07:57,142 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Selena Gomez - The Heart Wants What It Wants.mp3
+2025-01-13 07:07:57,144 - Processing Complicated by Olivia O'Brien...
+2025-01-13 07:08:05,413 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia OBrien - Complicated.mp3
+2025-01-13 07:08:05,415 - Processing Heather by Conan Gray...
+2025-01-13 07:08:14,855 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Conan Gray - Heather.mp3
+2025-01-13 07:08:14,858 - Processing July by Noah Cyrus...
+2025-01-13 07:08:22,570 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Noah Cyrus - July.mp3
+2025-01-13 07:08:22,573 - Processing deja vu by Olivia Rodrigo...
+2025-01-13 07:08:32,080 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - deja vu.mp3
+2025-01-13 07:08:32,083 - Processing One Last Time by Ariana Grande...
+2025-01-13 07:08:41,676 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ariana Grande - One Last Time.mp3
+2025-01-13 07:08:41,679 - Processing lovely (with Khalid) by Billie Eilish...
+2025-01-13 07:08:50,688 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - lovely (with Khalid).mp3
+2025-01-13 07:08:50,691 - Processing the grudge by Olivia Rodrigo...
+2025-01-13 07:08:59,723 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - the grudge.mp3
+2025-01-13 07:08:59,725 - Processing Happiness is a butterfly by Lana Del Rey...
+2025-01-13 07:09:10,486 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Happiness is a butterfly.mp3
+2025-01-13 07:09:10,488 - Processing Nobody Gets Me by SZA...
+2025-01-13 07:09:19,913 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\SZA - Nobody Gets Me.mp3
+2025-01-13 07:09:19,916 - Processing Liability by Lorde...
+2025-01-13 07:09:28,446 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lorde - Liability.mp3
+2025-01-13 07:09:28,448 - Processing Another Love by Tom Odell...
+2025-01-13 07:09:38,961 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Tom Odell - Another Love.mp3
+2025-01-13 07:09:38,963 - Processing everything i wanted by Billie Eilish...
+2025-01-13 07:09:52,814 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - everything i wanted.mp3
+2025-01-13 07:09:52,816 - Processing Falling by Harry Styles...
+2025-01-13 07:10:02,757 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Harry Styles - Falling.mp3
+2025-01-13 07:10:02,759 - Processing you broke me first by Tate McRae...
+2025-01-13 07:10:10,961 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Tate McRae - you broke me first.mp3
+2025-01-13 07:10:10,963 - Processing Sober by Demi Lovato...
+2025-01-13 07:10:20,268 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Demi Lovato - Sober.mp3
+2025-01-13 07:10:20,271 - Processing Video Games by Lana Del Rey...
+2025-01-13 07:10:30,531 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Video Games.mp3
+2025-01-13 07:10:30,533 - Processing that way by Tate McRae...
+2025-01-13 07:10:39,146 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Tate McRae - that way.mp3
+2025-01-13 07:10:39,149 - Processing Wrong Direction by Hailee Steinfeld...
+2025-01-13 07:10:50,177 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Hailee Steinfeld - Wrong Direction.mp3
+2025-01-13 07:10:50,179 - Processing Jealous by Labrinth...
+2025-01-13 07:11:03,127 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Labrinth - Jealous.mp3
+2025-01-13 07:11:03,129 - Processing Six Feet Under by Billie Eilish...
+2025-01-13 07:11:15,212 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - Six Feet Under.mp3
+2025-01-13 07:11:15,215 - Processing ceilings by Lizzy McAlpine...
+2025-01-13 07:11:24,313 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lizzy McAlpine - ceilings.mp3
+2025-01-13 07:11:24,315 - Processing Skinny Love by Birdy...
+2025-01-13 07:11:33,812 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Birdy - Skinny Love.mp3
+2025-01-13 07:11:33,814 - Processing Let Me Down Slowly by Alec Benjamin...
+2025-01-13 07:11:42,939 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Alec Benjamin - Let Me Down Slowly.mp3
+2025-01-13 07:11:42,941 - Processing i love you by Billie Eilish...
+2025-01-13 07:11:58,815 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - i love you.mp3
+2025-01-13 07:11:58,817 - Processing Lost Without You by Freya Ridings...
+2025-01-13 07:12:09,263 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Freya Ridings - Lost Without You.mp3
+2025-01-13 07:12:09,265 - Processing Selfish by Madison Beer...
+2025-01-13 07:12:21,499 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Madison Beer - Selfish.mp3
+2025-01-13 07:12:21,502 - Processing when the party's over by Billie Eilish...
+2025-01-13 07:12:32,083 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - when the partys over.mp3
+2025-01-13 07:12:32,087 - Processing Half A Man by Dean Lewis...
+2025-01-13 07:12:40,850 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Dean Lewis - Half A Man.mp3
+2025-01-13 07:12:40,852 - Processing champagne problems by Taylor Swift...
+2025-01-13 07:12:51,603 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - champagne problems.mp3
+2025-01-13 07:12:51,606 - Processing Stone Cold by Demi Lovato...
+2025-01-13 07:13:01,673 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Demi Lovato - Stone Cold.mp3
+2025-01-13 07:13:01,675 - Processing traitor by Olivia Rodrigo...
+2025-01-13 07:13:12,448 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - traitor.mp3
+2025-01-13 07:13:12,451 - Processing From the Dining Table by Harry Styles...
+2025-01-13 07:13:23,178 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Harry Styles - From the Dining Table.mp3
+2025-01-13 07:13:23,180 - Processing Impossible by James Arthur...
+2025-01-13 07:13:33,750 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\James Arthur - Impossible.mp3
+2025-01-13 07:13:33,752 - Processing Someone Like You by Adele...
+2025-01-13 07:13:45,851 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Adele - Someone Like You.mp3
+2025-01-13 07:13:45,855 - Processing ecstasy by Zé...
+2025-01-13 07:13:52,600 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Z - ecstasy.mp3
+2025-01-13 07:13:52,602 - Processing It's You by Ali Gatie...
+2025-01-13 07:14:01,674 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ali Gatie - Its You.mp3
+2025-01-13 07:14:01,677 - Processing Say You Won't Let Go by James Arthur...
+2025-01-13 07:14:11,531 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\James Arthur - Say You Wont Let Go.mp3
+2025-01-13 07:14:11,533 - Processing Lonely by Noah Cyrus...
+2025-01-13 07:14:19,482 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Noah Cyrus - Lonely.mp3
+2025-01-13 07:14:19,484 - Processing Consequences by Camila Cabello...
+2025-01-13 07:14:28,437 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Camila Cabello - Consequences.mp3
+2025-01-13 07:14:28,440 - Processing Daylight by David Kushner...
+2025-01-13 07:14:38,185 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\David Kushner - Daylight.mp3
+2025-01-13 07:14:38,189 - Processing Someone You Loved by Lewis Capaldi...
+2025-01-13 07:14:47,604 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lewis Capaldi - Someone You Loved.mp3
+2025-01-13 07:14:47,606 - Processing ocean eyes by Billie Eilish...
+2025-01-13 07:14:57,798 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - ocean eyes.mp3
+2025-01-13 07:14:57,800 - Processing Kill Em With Kindness - Acoustic by Selena Gomez...
+2025-01-13 07:15:07,165 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Selena Gomez - Kill Em With Kindness - Acoustic.mp3
+2025-01-13 07:15:07,167 - Processing needy by Ariana Grande...
+2025-01-13 07:15:15,804 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ariana Grande - needy.mp3
+2025-01-13 07:15:15,806 - Processing Close To You by Rihanna...
+2025-01-13 07:15:25,692 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Rihanna - Close To You.mp3
+2025-01-13 07:15:25,695 - Processing Something's Gotta Give by Camila Cabello...
+2025-01-13 07:15:37,007 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Camila Cabello - Somethings Gotta Give.mp3
+2025-01-13 07:15:37,009 - Processing Exhale by Sabrina Carpenter...
+2025-01-13 07:15:45,605 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sabrina Carpenter - Exhale.mp3
+2025-01-13 07:15:45,607 - Processing idontwannabeyouanymore by Billie Eilish...
+2025-01-13 07:15:54,985 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - idontwannabeyouanymore.mp3
+2025-01-13 07:15:54,988 - Processing I'm with You by Avril Lavigne...
+2025-01-13 07:16:05,163 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Avril Lavigne - Im with You.mp3
+2025-01-13 07:16:05,166 - Processing Sorry by Halsey...
+2025-01-13 07:16:15,904 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Halsey - Sorry.mp3
+2025-01-13 07:16:15,907 - Processing I Have Questions by Camila Cabello...
+2025-01-13 07:16:25,272 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Camila Cabello - I Have Questions.mp3
+2025-01-13 07:16:25,275 - Processing Lookalike by Conan Gray...
+2025-01-13 07:16:34,683 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Conan Gray - Lookalike.mp3
+2025-01-13 07:16:34,685 - Processing Mrs. Potato Head by Melanie Martinez...
+2025-01-13 07:16:46,472 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Melanie Martinez - Mrs. Potato Head.mp3
+2025-01-13 07:16:46,474 - Processing tolerate it by Taylor Swift...
+2025-01-13 07:16:56,154 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - tolerate it.mp3
+2025-01-13 07:16:56,156 - Processing Dancing With A Stranger (With Normani) - Acoustic by Sam Smith...
+2025-01-13 07:17:04,871 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sam Smith - Dancing With A Stranger (With Normani) - Acoustic.mp3
+2025-01-13 07:17:04,874 - Processing Getting Older by Billie Eilish...
+2025-01-13 07:17:14,851 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - Getting Older.mp3
+2025-01-13 07:17:14,854 - Processing The One That Got Away - Acoustic by Katy Perry...
+2025-01-13 07:17:25,109 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Katy Perry - The One That Got Away - Acoustic.mp3
+2025-01-13 07:17:25,111 - Processing favorite crime by Olivia Rodrigo...
+2025-01-13 07:17:33,138 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - favorite crime.mp3
+2025-01-13 07:17:33,141 - Processing Stay by Rihanna...
+2025-01-13 07:17:44,522 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Rihanna - Stay.mp3
+2025-01-13 07:17:44,525 - Processing why did you have to be so cool by Sopperior...
+2025-01-13 07:17:50,896 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sopperior - why did you have to be so cool.mp3
+2025-01-13 07:17:50,898 - Processing Dancing With Your Ghost by Sasha Alex Sloan...
+2025-01-13 07:18:00,841 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sasha Alex Sloan - Dancing With Your Ghost.mp3
+2025-01-13 07:18:00,843 - Processing River Of Tears by Alessia Cara...
+2025-01-13 07:18:11,037 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Alessia Cara - River Of Tears.mp3
+2025-01-13 07:18:11,040 - Processing Bored by Billie Eilish...
+2025-01-13 07:18:19,269 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - Bored.mp3
+2025-01-13 07:18:19,272 - Processing Lose You To Love Me by Selena Gomez...
+2025-01-13 07:18:28,760 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Selena Gomez - Lose You To Love Me.mp3
+2025-01-13 07:18:28,762 - Processing happier by Olivia Rodrigo...
+2025-01-13 07:18:37,585 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - happier.mp3
+2025-01-13 07:18:37,587 - Processing 13 Beaches by Lana Del Rey...
+2025-01-13 07:18:49,016 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - 13 Beaches.mp3
+2025-01-13 07:18:49,019 - Processing Remember That Night? by Sara Kays...
+2025-01-13 07:18:58,937 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sara Kays - Remember That Night.mp3
+2025-01-13 07:18:58,939 - Processing hate u love u by Olivia O'Brien...
+2025-01-13 07:19:07,591 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia OBrien - hate u love u.mp3
+2025-01-13 07:19:07,593 - Processing Falling by Trevor Daniel...
+2025-01-13 07:19:15,750 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Trevor Daniel - Falling.mp3
+2025-01-13 07:19:15,752 - Processing Happier Than Ever by Billie Eilish...
+2025-01-13 07:19:28,821 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - Happier Than Ever.mp3
+2025-01-13 07:19:28,825 - Processing august by Taylor Swift...
+2025-01-13 07:19:40,267 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - august.mp3
+2025-01-13 07:19:40,270 - Processing Photograph by Ed Sheeran...
+2025-01-13 07:19:51,211 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ed Sheeran - Photograph.mp3
+2025-01-13 07:19:51,213 - Processing SONG4 SOME1 by Orlando & the Rumors...
+2025-01-13 07:19:59,900 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Orlando  the Rumors - SONG4 SOME1.mp3
+2025-01-13 07:19:59,902 - Processing Arcade by Duncan Laurence...
+2025-01-13 07:20:08,654 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Duncan Laurence - Arcade.mp3
+2025-01-13 07:20:08,657 - Processing Love Yourself by Justin Bieber...
+2025-01-13 07:20:21,711 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Justin Bieber - Love Yourself.mp3
+2025-01-13 07:20:21,713 - Processing Reckless by Madison Beer...
+2025-01-13 07:20:31,429 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Madison Beer - Reckless.mp3
+2025-01-13 07:20:31,431 - Processing Young And Beautiful by Lana Del Rey...
+2025-01-13 07:20:42,006 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Young And Beautiful.mp3
+2025-01-13 07:20:42,008 - Processing Easy On Me by Adele...
+2025-01-13 07:20:59,903 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Adele - Easy On Me.mp3
+2025-01-13 07:20:59,906 - Processing Always Remember Us This Way by Lady Gaga...
+2025-01-13 07:21:09,822 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lady Gaga - Always Remember Us This Way.mp3
+2025-01-13 07:21:09,825 - Processing Pacify Her by Melanie Martinez...
+2025-01-13 07:21:20,012 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Melanie Martinez - Pacify Her.mp3
+2025-01-13 07:21:20,014 - Processing exile (feat. Bon Iver) by Taylor Swift...
+2025-01-13 07:21:31,847 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - exile (feat. Bon Iver).mp3
+2025-01-13 07:21:31,850 - Processing This Town by Niall Horan...
+2025-01-13 07:21:41,970 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Niall Horan - This Town.mp3
+2025-01-13 07:21:41,972 - Processing SELFISH NAME by Xavier Harper...
+2025-01-13 07:21:50,899 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Xavier Harper - SELFISH NAME.mp3
+2025-01-13 07:21:50,901 - Processing listen before i go by Billie Eilish...
+2025-01-13 07:22:02,079 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - listen before i go.mp3
+2025-01-13 07:22:02,082 - Processing Be Alright by Dean Lewis...
+2025-01-13 07:22:11,325 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Dean Lewis - Be Alright.mp3
+2025-01-13 07:22:11,327 - Processing Talking to the Moon by Bruno Mars...
+2025-01-13 07:22:21,092 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Bruno Mars - Talking to the Moon.mp3
+2025-01-13 07:22:21,095 - Processing Without Me by Halsey...
+2025-01-13 07:22:30,118 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Halsey - Without Me.mp3
+2025-01-13 07:22:30,120 - Processing Training Wheels by Melanie Martinez...
+2025-01-13 07:22:39,545 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Melanie Martinez - Training Wheels.mp3
+2025-01-13 07:22:39,547 - Processing Shallow by Lady Gaga...
+2025-01-13 07:22:49,323 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lady Gaga - Shallow.mp3
+2025-01-13 07:22:49,326 - Processing farewell song by Elliot...
+2025-01-13 07:22:57,626 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Elliot - farewell song.mp3
+2025-01-13 07:22:57,628 - Processing my tears ricochet by Taylor Swift...
+2025-01-13 07:23:07,625 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - my tears ricochet.mp3
+2025-01-13 07:23:07,627 - Processing All I Want by Olivia Rodrigo...
+2025-01-13 07:23:16,721 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - All I Want.mp3
+2025-01-13 07:23:16,723 - Processing Million Reasons by Lady Gaga...
+2025-01-13 07:23:26,588 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lady Gaga - Million Reasons.mp3
+2025-01-13 07:23:26,590 - Processing I Sing To Myself by Ashaine White...
+2025-01-13 07:23:39,038 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ashaine White - I Sing To Myself.mp3
+2025-01-13 07:23:39,040 - Processing Without You by Lana Del Rey...
+2025-01-13 07:23:48,382 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Without You.mp3
+2025-01-13 07:23:48,385 - Processing idfc by blackbear...
+2025-01-13 07:23:58,582 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\blackbear - idfc.mp3
+2025-01-13 07:23:58,584 - Processing Cherry by Lana Del Rey...
+2025-01-13 07:24:07,890 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Cherry.mp3
+2025-01-13 07:24:07,892 - Processing Say Something by A Great Big World...
+2025-01-13 07:24:17,694 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\A Great Big World - Say Something.mp3
+2025-01-13 07:24:17,698 - Processing illicit affairs by Taylor Swift...
+2025-01-13 07:24:26,868 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - illicit affairs.mp3
+2025-01-13 07:24:26,870 - Processing Love In The Dark by Adele...
+2025-01-13 07:24:38,056 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Adele - Love In The Dark.mp3
+2025-01-13 07:24:38,058 - Processing Out Of Love by Alessia Cara...
+2025-01-13 07:24:47,882 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Alessia Cara - Out Of Love.mp3
+2025-01-13 07:24:47,885 - Processing Until I Found You - Piano Version by Stephen Sanchez...
+2025-01-13 07:24:56,246 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Stephen Sanchez - Until I Found You - Piano Version.mp3
+2025-01-13 07:24:56,249 - Processing My Immortal by Evanescence...
+2025-01-13 07:25:07,451 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Evanescence - My Immortal.mp3
+2025-01-13 07:25:07,453 - Processing Hello by Adele...
+2025-01-13 07:25:19,600 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Adele - Hello.mp3
+2025-01-13 07:25:19,603 - Processing Forgotten Queen by Jenny Bruce...
+2025-01-13 07:25:28,235 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Jenny Bruce - Forgotten Queen.mp3
+2025-01-13 07:25:28,238 - Processing Because of You by Kelly Clarkson...
+2025-01-13 07:25:37,560 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Kelly Clarkson - Because of You.mp3
+2025-01-13 07:25:37,562 - Processing Let It Go by James Bay...
+2025-01-13 07:25:48,084 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\James Bay - Let It Go.mp3
+2025-01-13 07:25:48,086 - Processing I miss you, I’m sorry by Gracie Abrams...
+2025-01-13 07:25:56,967 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Gracie Abrams - I miss you Im sorry.mp3
+2025-01-13 07:25:56,970 - Processing Born To Die by Lana Del Rey...
+2025-01-13 07:26:07,488 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Born To Die.mp3
+2025-01-13 07:26:07,491 - Processing Meet Me in the Hallway by Harry Styles...
+2025-01-13 07:26:17,509 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Harry Styles - Meet Me in the Hallway.mp3
+2025-01-13 07:26:17,511 - Processing better off by Ariana Grande...
+2025-01-13 07:26:26,775 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ariana Grande - better off.mp3
+2025-01-13 07:26:26,777 - Processing 21 by Gracie Abrams...
+2025-01-13 07:26:35,635 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Gracie Abrams - 21.mp3
+2025-01-13 07:26:35,638 - Processing vampire by Olivia Rodrigo...
+2025-01-13 07:26:46,049 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - vampire.mp3
+2025-01-13 07:26:46,051 - Processing High By The Beach by Lana Del Rey...
+2025-01-13 07:26:56,764 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - High By The Beach.mp3
+2025-01-13 07:26:56,768 - Processing ghostin by Ariana Grande...
+2025-01-13 07:27:07,476 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ariana Grande - ghostin.mp3
+2025-01-13 07:27:07,478 - Processing When You're Gone by Avril Lavigne...
+2025-01-13 07:27:17,206 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Avril Lavigne - When Youre Gone.mp3
+2025-01-13 07:27:17,208 - Processing Old Money by Lana Del Rey...
+2025-01-13 07:27:27,805 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Old Money.mp3
+2025-01-13 07:27:27,807 - Processing Mercy - Acoustic by Shawn Mendes...
+2025-01-13 07:27:37,128 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Shawn Mendes - Mercy - Acoustic.mp3
+2025-01-13 07:27:37,130 - Processing Art Deco by Lana Del Rey...
+2025-01-13 07:27:48,806 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Art Deco.mp3
+2025-01-13 07:27:48,808 - Processing i can't breathe by Bea Miller...
+2025-01-13 07:27:58,999 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Bea Miller - i cant breathe.mp3
+2025-01-13 07:27:59,001 - Processing I’m Tired (with Zendaya) - Bonus Track by Labrinth...
+2025-01-13 07:28:07,253 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Labrinth - Im Tired (with Zendaya) - Bonus Track.mp3
+2025-01-13 07:28:07,255 - Processing All I Want by Kodaline...
+2025-01-13 07:28:19,583 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Kodaline - All I Want.mp3
+2025-01-13 07:28:19,585 - Processing Best Mistake by Ariana Grande...
+2025-01-13 07:28:29,585 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ariana Grande - Best Mistake.mp3
+2025-01-13 07:28:29,588 - Processing Waves by Dean Lewis...
+2025-01-13 07:28:40,408 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Dean Lewis - Waves.mp3
+2025-01-13 07:28:40,410 - Processing I Don't Care by Ariana Grande...
+2025-01-13 07:28:49,298 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ariana Grande - I Dont Care.mp3
+2025-01-13 07:28:49,301 - Processing Everybody Dies by Billie Eilish...
+2025-01-13 07:28:58,375 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - Everybody Dies.mp3
+2025-01-13 07:28:58,377 - Processing logical by Olivia Rodrigo...
+2025-01-13 07:29:08,220 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - logical.mp3
+2025-01-13 07:29:08,222 - Processing Water Fountain by Alec Benjamin...
+2025-01-13 07:29:17,560 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Alec Benjamin - Water Fountain.mp3
+2025-01-13 07:29:17,562 - Processing Beautiful by Christina Aguilera...
+2025-01-13 07:29:27,580 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Christina Aguilera - Beautiful.mp3
+2025-01-13 07:29:27,582 - Processing Little Do You Know by Alex & Sierra...
+2025-01-13 07:29:36,010 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Alex  Sierra - Little Do You Know.mp3
+2025-01-13 07:29:36,012 - Processing Hold On by Adele...
+2025-01-13 07:29:48,974 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Adele - Hold On.mp3
+2025-01-13 07:29:48,977 - Processing Moral of the Story by Ashe...
+2025-01-13 07:29:57,986 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ashe - Moral of the Story.mp3
+2025-01-13 07:29:57,988 - Processing human by Christina Perri...
+2025-01-13 07:30:08,286 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Christina Perri - human.mp3
+2025-01-13 07:30:08,288 - Processing If We Have Each Other by Alec Benjamin...
+2025-01-13 07:30:17,070 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Alec Benjamin - If We Have Each Other.mp3
+2025-01-13 07:30:17,072 - Processing Fire On Fire by Sam Smith...
+2025-01-13 07:30:27,128 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sam Smith - Fire On Fire.mp3
+2025-01-13 07:30:27,130 - Processing When I Was Your Man by Bruno Mars...
+2025-01-13 07:30:37,297 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Bruno Mars - When I Was Your Man.mp3
+2025-01-13 07:30:37,300 - Processing Before You Go by Lewis Capaldi...
+2025-01-13 07:30:48,011 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lewis Capaldi - Before You Go.mp3
+2025-01-13 07:30:48,013 - Processing All I Ask by Adele...
+2025-01-13 07:30:58,255 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Adele - All I Ask.mp3
+2025-01-13 07:30:58,257 - Processing The Scientist by Coldplay...
+2025-01-13 07:31:09,026 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Coldplay - The Scientist.mp3
+2025-01-13 07:31:09,028 - Processing If the World Was Ending (feat. Julia Michaels) by JP Saxe...
+2025-01-13 07:31:19,010 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\JP Saxe - If the World Was Ending (feat. Julia Michaels).mp3
+2025-01-13 07:31:19,012 - Processing California by Lana Del Rey...
+2025-01-13 07:31:29,684 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - California.mp3
+2025-01-13 07:31:29,687 - Processing Hold Me While You Wait by Lewis Capaldi...
+2025-01-13 07:31:38,770 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lewis Capaldi - Hold Me While You Wait.mp3
+2025-01-13 07:31:38,772 - Processing Dontwannafall by Sanja Ost...
+2025-01-13 07:31:47,774 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sanja Ost - Dontwannafall.mp3
+2025-01-13 07:31:47,776 - Processing Used To Be Young by Miley Cyrus...
+2025-01-13 07:31:57,332 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Miley Cyrus - Used To Be Young.mp3
+2025-01-13 07:31:57,335 - Processing Special by SZA...
+2025-01-13 07:32:05,356 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\SZA - Special.mp3
+2025-01-13 07:32:05,360 - Processing When We Were Young by Adele...
+2025-01-13 07:32:17,351 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Adele - When We Were Young.mp3
+2025-01-13 07:32:17,353 - Processing happiness by Taylor Swift...
+2025-01-13 07:32:28,269 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - happiness.mp3
+2025-01-13 07:32:28,272 - Processing Chamber of Reflection by Your Anxiety Buddy...
+2025-01-13 07:32:36,213 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Your Anxiety Buddy - Chamber of Reflection.mp3
+2025-01-13 07:32:36,216 - Processing Black Friday by Tom Odell...
+2025-01-13 07:32:46,531 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Tom Odell - Black Friday.mp3
+2025-01-13 07:32:46,533 - Processing Too Much To Ask by Niall Horan...
+2025-01-13 07:32:56,156 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Niall Horan - Too Much To Ask.mp3
+2025-01-13 07:32:56,158 - Processing Solo by Myles Smith...
+2025-01-13 07:33:05,799 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Myles Smith - Solo.mp3
+2025-01-13 07:33:05,801 - Processing My Love Mine All Mine by Mitski...
+2025-01-13 07:33:15,220 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Mitski - My Love Mine All Mine.mp3
+2025-01-13 07:33:15,222 - Processing In The Stars by Benson Boone...
+2025-01-13 07:33:24,832 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Benson Boone - In The Stars.mp3
+2025-01-13 07:33:24,834 - Processing 1 step forward, 3 steps back by Olivia Rodrigo...
+2025-01-13 07:33:32,826 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - 1 step forward 3 steps back.mp3
+2025-01-13 07:33:32,828 - Processing A Year Ago by James Arthur...
+2025-01-13 07:33:41,127 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\James Arthur - A Year Ago.mp3
+2025-01-13 07:33:41,130 - Processing TV by Billie Eilish...
+2025-01-13 07:33:51,623 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - TV.mp3
+2025-01-13 07:33:51,625 - Processing this is me trying by Taylor Swift...
+2025-01-13 07:34:00,771 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - this is me trying.mp3
+2025-01-13 07:34:00,773 - Processing emails i can’t send by Sabrina Carpenter...
+2025-01-13 07:34:07,812 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sabrina Carpenter - emails i cant send.mp3
+2025-01-13 07:34:07,814 - Processing Hurtless by Dean Lewis...
+2025-01-13 07:34:17,089 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Dean Lewis - Hurtless.mp3
+2025-01-13 07:34:17,092 - Processing enough for you by Olivia Rodrigo...
+2025-01-13 07:34:26,064 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Olivia Rodrigo - enough for you.mp3
+2025-01-13 07:34:26,066 - Processing People Help the People by Birdy...
+2025-01-13 07:34:36,632 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Birdy - People Help the People.mp3
+2025-01-13 07:34:36,635 - Processing Atlantis by Seafret...
+2025-01-13 07:34:46,477 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Seafret - Atlantis.mp3
+2025-01-13 07:34:46,481 - Processing The Night We Met by Lord Huron...
+2025-01-13 07:34:55,646 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lord Huron - The Night We Met.mp3
+2025-01-13 07:34:55,648 - Processing Heal by Tom Odell...
+2025-01-13 07:35:04,042 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Tom Odell - Heal.mp3
+2025-01-13 07:35:04,044 - Processing The Archer by Taylor Swift...
+2025-01-13 07:35:14,225 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - The Archer.mp3
+2025-01-13 07:35:14,228 - Processing The Gold - Phoebe Bridgers Version by Manchester Orchestra...
+2025-01-13 07:35:24,170 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Manchester Orchestra - The Gold - Phoebe Bridgers Version.mp3
+2025-01-13 07:35:24,173 - Processing Lost Boy by Ruth B....
+2025-01-13 07:35:34,349 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ruth B. - Lost Boy.mp3
+2025-01-13 07:35:34,351 - Processing What A Time (feat. Niall Horan) by Julia Michaels...
+2025-01-13 07:35:43,399 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Julia Michaels - What A Time (feat. Niall Horan).mp3
+2025-01-13 07:35:43,401 - Processing Can I Be Him by James Arthur...
+2025-01-13 07:35:53,116 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\James Arthur - Can I Be Him.mp3
+2025-01-13 07:35:53,118 - Processing Forever by Lewis Capaldi...
+2025-01-13 07:36:03,623 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lewis Capaldi - Forever.mp3
+2025-01-13 07:36:03,625 - Processing Superficial Love by Ruth B....
+2025-01-13 07:36:13,192 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ruth B. - Superficial Love.mp3
+2025-01-13 07:36:13,194 - Processing Hold On by Chord Overstreet...
+2025-01-13 07:36:23,948 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Chord Overstreet - Hold On.mp3
+2025-01-13 07:36:23,951 - Processing Sign of the Times by Harry Styles...
+2025-01-13 07:36:35,655 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Harry Styles - Sign of the Times.mp3
+2025-01-13 07:36:35,657 - Processing Black Beauty by Lana Del Rey...
+2025-01-13 07:36:47,833 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Black Beauty.mp3
+2025-01-13 07:36:47,836 - Processing Cry by Cigarettes After Sex...
+2025-01-13 07:36:57,595 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Cigarettes After Sex - Cry.mp3
+2025-01-13 07:36:57,597 - Processing Funeral by Phoebe Bridgers...
+2025-01-13 07:37:15,857 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Phoebe Bridgers - Funeral.mp3
+2025-01-13 07:37:15,859 - Processing Glimpse of Us by Joji...
+2025-01-13 07:37:25,735 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Joji - Glimpse of Us.mp3
+2025-01-13 07:37:25,737 - Processing Memories by Dean Lewis...
+2025-01-13 07:37:34,564 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Dean Lewis - Memories.mp3
+2025-01-13 07:37:34,567 - Processing Romantic Homicide by d4vd...
+2025-01-13 07:37:42,432 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\d4vd - Romantic Homicide.mp3
+2025-01-13 07:37:42,434 - Processing chaotic by Tate McRae...
+2025-01-13 07:37:50,659 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Tate McRae - chaotic.mp3
+2025-01-13 07:37:50,661 - Processing Mystery of Love by Sufjan Stevens...
+2025-01-13 07:38:00,692 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sufjan Stevens - Mystery of Love.mp3
+2025-01-13 07:38:00,694 - Processing I Know You by Faye Webster...
+2025-01-13 07:38:10,354 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Faye Webster - I Know You.mp3
+2025-01-13 07:38:10,357 - Processing Pretty When You Cry by Lana Del Rey...
+2025-01-13 07:38:20,294 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lana Del Rey - Pretty When You Cry.mp3
+2025-01-13 07:38:20,296 - Processing Moon Song by Phoebe Bridgers...
+2025-01-13 07:38:31,981 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Phoebe Bridgers - Moon Song.mp3
+2025-01-13 07:38:31,983 - Processing Naked by James Arthur...
+2025-01-13 07:38:41,290 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\James Arthur - Naked.mp3
+2025-01-13 07:38:41,293 - Processing Stone Cold by Dreams of Zephyrus...
+2025-01-13 07:38:53,007 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Dreams of Zephyrus - Stone Cold.mp3
+2025-01-13 07:38:53,009 - Processing Beautiful Things - Acoustic by Benson Boone...
+2025-01-13 07:39:02,093 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Benson Boone - Beautiful Things - Acoustic.mp3
+2025-01-13 07:39:02,095 - Processing Die For You by Joji...
+2025-01-13 07:39:11,136 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Joji - Die For You.mp3
+2025-01-13 07:39:11,139 - Processing How Do I Say Goodbye by Dean Lewis...
+2025-01-13 07:39:20,304 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Dean Lewis - How Do I Say Goodbye.mp3
+2025-01-13 07:39:20,307 - Processing House Song by Searows...
+2025-01-13 07:39:30,288 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Searows - House Song.mp3
+2025-01-13 07:39:30,291 - Processing Till Forever Falls Apart by Ashe...
+2025-01-13 07:39:39,463 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Ashe - Till Forever Falls Apart.mp3
+2025-01-13 07:39:39,467 - Processing IDK You Yet by Alexander 23...
+2025-01-13 07:39:48,109 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Alexander 23 - IDK You Yet.mp3
+2025-01-13 07:39:48,111 - Processing hate to be lame by Lizzy McAlpine...
+2025-01-13 07:39:57,196 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Lizzy McAlpine - hate to be lame.mp3
+2025-01-13 07:39:57,198 - Processing cardigan by Taylor Swift...
+2025-01-13 07:40:08,330 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Taylor Swift - cardigan.mp3
+2025-01-13 07:40:08,333 - Processing Break My Heart Again by FINNEAS...
+2025-01-13 07:40:18,098 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\FINNEAS - Break My Heart Again.mp3
+2025-01-13 07:40:18,100 - Processing Sad by Karoline Kaminski...
+2025-01-13 07:40:27,883 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Karoline Kaminski - Sad.mp3
+2025-01-13 07:40:27,886 - Processing Male Fantasy by Billie Eilish...
+2025-01-13 07:40:39,476 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Billie Eilish - Male Fantasy.mp3
+2025-01-13 07:40:39,479 - Processing Older by Sasha Alex Sloan...
+2025-01-13 07:40:48,763 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Sasha Alex Sloan - Older.mp3
+2025-01-13 07:40:48,765 - Processing Get You The Moon (feat. Snøw) by Kina...
+2025-01-13 07:40:57,545 - Downloaded successfully: D:/Music/Spotify\crying_myself_to_sleep__sad_songs\Kina - Get You The Moon (feat. Snw).mp3
+2025-01-13 07:40:57,547 - Download completed for playlist.
+2025-01-14 08:49:05,475 - Processing Snowman by Sia...
+2025-01-14 08:49:14,129 - Downloaded successfully: D:/Music/Spotify\playlist\Sia - Snowman.mp3
+2025-01-14 08:49:14,131 - Processing Set Fire to the Rain by Adele...
+2025-01-14 08:49:24,736 - Downloaded successfully: D:/Music/Spotify\playlist\Adele - Set Fire to the Rain.mp3
+2025-01-14 08:49:24,738 - Processing Another Love by Tom Odell...
+2025-02-09 17:03:37,275 - Processing \u0628\u062a\u0647\u0648\u0646 by Bigsam...
+2025-02-09 17:03:48,704 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Bigsam - .mp3
+2025-02-09 17:03:48,708 - Processing \u0623\u0646\u0627 by Wegz...
+2025-02-09 17:03:55,768 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Wegz - .mp3
+2025-02-09 17:03:55,770 - Processing KARMA by Marwan Pablo...
+2025-02-09 17:04:04,175 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Marwan Pablo - KARMA.mp3
+2025-02-09 17:04:04,178 - Processing Ana Meen by \u0632\u0627\u062f...
+2025-02-09 17:04:12,411 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\ - Ana Meen.mp3
+2025-02-09 17:04:12,413 - Processing 333 by Tommy Gun...
+2025-02-09 17:04:21,102 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Tommy Gun - 333.mp3
+2025-02-09 17:04:21,105 - Processing Bekya by Donia Wael...
+2025-02-09 17:04:31,012 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Donia Wael - Bekya.mp3
+2025-02-09 17:04:31,015 - Processing Noaata Beida by Cairokee...
+2025-02-09 17:04:41,679 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Cairokee - Noaata Beida.mp3
+2025-02-09 17:04:41,681 - Processing \u062d\u0628\u064a\u0628\u064a \u0644\u064a\u0647 by TUL8TE...
+2025-02-09 17:04:50,503 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\TUL8TE -  .mp3
+2025-02-09 17:04:50,505 - Processing 7ALA by Afroto...
+2025-02-09 17:04:58,933 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Afroto - 7ALA.mp3
+2025-02-09 17:04:58,935 - Processing Ya Salam - Remix by El Waili...
+2025-02-09 17:05:08,311 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\El Waili - Ya Salam - Remix.mp3
+2025-02-09 17:05:08,313 - Processing Denamet by Molotof...
+2025-02-09 17:05:18,052 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Molotof - Denamet.mp3
+2025-02-09 17:05:18,054 - Processing \u062d\u0643\u0645\u0629 \u0627\u0644\u0627\u064a\u0627\u0645 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u064a\u0641\u0648 by \u0631\u064a\u0641\u0648 \u0634\u0648...
+2025-02-09 17:05:26,850 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\  -   -   .mp3
+2025-02-09 17:05:26,853 - Processing El 3asal by Donia Wael...
+2025-02-09 17:05:35,727 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Donia Wael - El 3asal.mp3
+2025-02-09 17:05:35,728 - Processing Matwhashneesh by Cairokee...
+2025-02-09 17:05:45,787 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Cairokee - Matwhashneesh.mp3
+2025-02-09 17:05:45,790 - Processing \u0646\u0641\u0633 \u0627\u0644\u0643\u0644\u0627\u0645 \u0627\u0644\u0644\u064a \u0628\u063a\u0646\u064a\u0647 by TUL8TE...
+2025-02-09 17:05:54,663 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\TUL8TE -    .mp3
+2025-02-09 17:05:54,665 - Processing \u0639\u0627\u0644\u0639\u0645\u0648\u0645 by Shehab...
+2025-02-09 17:06:02,563 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Shehab - .mp3
+2025-02-09 17:06:02,566 - Processing Tayer by Amir Eid...
+2025-02-09 17:06:11,190 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Amir Eid - Tayer.mp3
+2025-02-09 17:06:11,192 - Processing El Leila by Ilmond...
+2025-02-09 17:06:20,208 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Ilmond - El Leila.mp3
+2025-02-09 17:06:20,210 - Processing Met3'er by Mohammed Saeed...
+2025-02-09 17:06:28,918 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Mohammed Saeed - Met3er.mp3
+2025-02-09 17:06:28,921 - Processing 100 WAHDA by Yonyo...
+2025-02-09 17:06:37,550 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Yonyo - 100 WAHDA.mp3
+2025-02-09 17:06:37,553 - Processing \u0643\u0644 \u062d\u0627\u062c\u0629 \u0628\u062a\u0639\u062f\u064a - \u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648 by Cairokee...
+2025-02-09 17:06:46,533 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Cairokee -    -   .mp3
+2025-02-09 17:06:46,536 - Processing Abo Galum by Eldab3...
+2025-02-09 17:06:53,963 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Eldab3 - Abo Galum.mp3
+2025-02-09 17:06:53,965 - Processing \u0627\u0646\u062a\u064a \u062d\u0644\u0648\u0647 \u0643\u062f\u0627 \u0627\u0632\u0627\u064a \u061f by Youssif Elashry...
+2025-02-09 17:07:01,594 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Youssif Elashry -     .mp3
+2025-02-09 17:07:01,598 - Processing WADINI by Afroto...
+2025-02-09 17:07:10,993 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Afroto - WADINI.mp3
+2025-02-09 17:07:10,995 - Processing Warda by Ilmond...
+2025-02-09 17:07:19,895 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Ilmond - Warda.mp3
+2025-02-09 17:07:19,897 - Processing \u0645\u0634 \u0647\u0642\u0648\u0644\u0643 \u0628\u064a\u0628\u064a by Wegz...
+2025-02-09 17:07:28,983 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Wegz -   .mp3
+2025-02-09 17:07:28,985 - Processing Adham by Tommy Gun...
+2025-02-09 17:07:37,009 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Tommy Gun - Adham.mp3
+2025-02-09 17:07:37,013 - Processing Samurai by Cairokee...
+2025-02-09 17:07:46,247 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Cairokee - Samurai.mp3
+2025-02-09 17:07:46,249 - Processing Metkatef by Amir Eid...
+2025-02-09 17:07:55,005 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Amir Eid - Metkatef.mp3
+2025-02-09 17:07:55,008 - Processing Kan Fi Sora by Abyusif...
+2025-02-09 17:08:02,818 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Abyusif - Kan Fi Sora.mp3
+2025-02-09 17:08:02,821 - Processing Matloob by Afroto...
+2025-02-09 17:08:11,626 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Afroto - Matloob.mp3
+2025-02-09 17:08:11,628 - Processing Aghla Men Al Yaqout by Ahmed Mekky...
+2025-02-09 17:08:23,537 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Ahmed Mekky - Aghla Men Al Yaqout.mp3
+2025-02-09 17:08:23,539 - Processing \u0644\u0645\u0627 \u0628\u064a\u0648\u062d\u0634\u0646\u064a by Ramy Sabry...
+2025-02-09 17:08:33,801 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Ramy Sabry -  .mp3
+2025-02-09 17:08:33,804 - Processing El Seka Shemal Fe Shemal by Cairokee...
+2025-02-09 17:08:44,136 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Cairokee - El Seka Shemal Fe Shemal.mp3
+2025-02-09 17:08:44,138 - Processing \u0633\u0627\u064a\u0628\u0647 \u0644\u0644\u0623\u064a\u0627\u0645 by Youssif Elashry...
+2025-02-09 17:08:55,645 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Youssif Elashry -  .mp3
+2025-02-09 17:08:55,647 - Processing Kazab by Bigsam...
+2025-02-09 17:09:04,565 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Bigsam - Kazab.mp3
+2025-02-09 17:09:04,568 - Processing Hfk by Ilmond...
+2025-02-09 17:09:13,627 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Ilmond - Hfk.mp3
+2025-02-09 17:09:13,630 - Processing LMA TGHEEBY by Lege-Cy...
+2025-02-09 17:09:22,528 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Lege-Cy - LMA TGHEEBY.mp3
+2025-02-09 17:09:22,531 - Processing CTRL by Marwan Pablo...
+2025-02-09 17:09:32,204 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Marwan Pablo - CTRL.mp3
+2025-02-09 17:09:32,207 - Processing Mel Awel by 3askalany...
+2025-02-09 17:09:41,598 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\3askalany - Mel Awel.mp3
+2025-02-09 17:09:41,601 - Processing Last Seen by Bigsam...
+2025-02-09 17:09:51,364 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Bigsam - Last Seen.mp3
+2025-02-09 17:09:51,366 - Processing \u0643\u0644\u0645\u0647 \u0642\u0628\u0644 \u0645\u0627 \u0623\u0645\u0648\u062a by Shehab...
+2025-02-09 17:09:59,970 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Shehab -    .mp3
+2025-02-09 17:09:59,972 - Processing Ahmed Santa by Ahmed Santa...
+2025-02-09 17:10:08,137 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Ahmed Santa - Ahmed Santa.mp3
+2025-02-09 17:10:08,139 - Processing Soura by Ilmond...
+2025-02-09 17:10:17,312 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Ilmond - Soura.mp3
+2025-02-09 17:10:17,314 - Processing 3Alsamet by Lege-Cy...
+2025-02-09 17:10:26,323 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Lege-Cy - 3Alsamet.mp3
+2025-02-09 17:10:26,325 - Processing El Gemeza by Marwan Pablo...
+2025-02-09 17:10:35,569 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Marwan Pablo - El Gemeza.mp3
+2025-02-09 17:10:35,572 - Processing \u0648\u0627\u062d\u062f \u0648\u0639\u0634\u0631\u064a\u0646 by Wegz...
+2025-02-09 17:10:47,400 - Downloaded successfully: D:/Music/Spotify\My_playlist_6\Wegz -  .mp3
+2025-02-09 17:10:47,402 - Download completed for playlist.
+2025-05-31 01:33:02,121 - Processing KALEMENY BELEL by Marwan Moussa...
+2025-05-31 01:33:10,697 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Marwan Moussa - KALEMENY BELEL.mp3
+2025-05-31 01:33:10,699 - Processing SWISSRA by Lege-Cy...
+2025-05-31 01:33:17,729 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - SWISSRA.mp3
+2025-05-31 01:33:17,732 - Processing \u062a\u0631\u0648\u062d \u0644\u0645\u064a\u0646 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0627\u0644\u0628\u062d\u062b \u0639\u0646 \u0645\u0646\u0641\u0630 \u0644\u062e\u0631\u0648\u062c \u0627\u0644\u0633\u064a\u062f \u0631\u0627\u0645\u0628\u0648 by Lege-Cy...
+2025-05-31 01:33:26,859 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy -   -        .mp3
+2025-05-31 01:33:26,862 - Processing Betadeen by Lege-Cy...
+2025-05-31 01:33:35,551 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Betadeen.mp3
+2025-05-31 01:33:35,553 - Processing 3Alsamet by Lege-Cy...
+2025-05-31 01:33:46,037 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - 3Alsamet.mp3
+2025-05-31 01:33:46,040 - Processing Fel Galeed by Lege-Cy...
+2025-05-31 01:33:54,441 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Fel Galeed.mp3
+2025-05-31 01:33:54,444 - Processing Ra7 Menny by Lege-Cy...
+2025-05-31 01:34:05,581 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Ra7 Menny.mp3
+2025-05-31 01:34:05,584 - Processing A'ool Eh by Lege-Cy...
+2025-05-31 01:34:20,783 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Aool Eh.mp3
+2025-05-31 01:34:20,786 - Processing Tharthara by Lege-Cy...
+2025-05-31 01:34:29,449 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Tharthara.mp3
+2025-05-31 01:34:29,451 - Processing 99 by Lege-Cy...
+2025-05-31 01:34:42,563 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - 99.mp3
+2025-05-31 01:34:42,566 - Processing EHDAA (FREESTYLE) by Lege-Cy...
+2025-05-31 01:34:49,314 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - EHDAA (FREESTYLE).mp3
+2025-05-31 01:34:49,317 - Processing Roshetta by Lege-Cy...
+2025-05-31 01:34:58,087 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Roshetta.mp3
+2025-05-31 01:34:58,089 - Processing Alo by Lege-Cy...
+2025-05-31 01:35:03,292 - Error downloading video for Alo: [0;31mERROR:[0m The downloaded file is empty
+2025-05-31 01:35:14,184 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Alo.mp3
+2025-05-31 01:35:14,186 - Processing LMA TGHEEBY by Lege-Cy...
+2025-05-31 01:35:23,485 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - LMA TGHEEBY.mp3
+2025-05-31 01:35:23,487 - Processing 3AL KHATT by Lege-Cy...
+2025-05-31 01:35:29,360 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - 3AL KHATT.mp3
+2025-05-31 01:35:29,362 - Processing Cima by Lege-Cy...
+2025-05-31 01:35:40,098 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Cima.mp3
+2025-05-31 01:35:40,101 - Processing Fantazia by Lege-Cy...
+2025-05-31 01:35:48,440 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Fantazia.mp3
+2025-05-31 01:35:48,442 - Processing Placebo by Lege-Cy...
+2025-05-31 01:35:58,839 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Placebo.mp3
+2025-05-31 01:35:58,841 - Processing KHAMSA FEL MEYYA BAS by Lege-Cy...
+2025-05-31 01:36:06,708 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - KHAMSA FEL MEYYA BAS.mp3
+2025-05-31 01:36:06,712 - Processing ANONYMOUS by TUL8TE...
+2025-05-31 01:36:18,528 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\TUL8TE - ANONYMOUS.mp3
+2025-05-31 01:36:18,530 - Processing Kamadaat by Lege-Cy...
+2025-05-31 01:36:28,462 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Kamadaat.mp3
+2025-05-31 01:36:28,466 - Processing Breakdance by Lege-Cy...
+2025-05-31 01:36:37,299 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Breakdance.mp3
+2025-05-31 01:36:37,302 - Processing 16 SAA3A by Lege-Cy...
+2025-05-31 01:36:45,383 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - 16 SAA3A.mp3
+2025-05-31 01:36:45,385 - Processing Wassa3 by Lege-Cy...
+2025-05-31 01:36:58,325 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Wassa3.mp3
+2025-05-31 01:36:58,328 - Processing MESH MESTAHMEL HAD by Ahmed Santa...
+2025-05-31 01:37:07,292 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Ahmed Santa - MESH MESTAHMEL HAD.mp3
+2025-05-31 01:37:07,295 - Processing Msh True by Lege-Cy...
+2025-05-31 01:37:15,328 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Msh True.mp3
+2025-05-31 01:37:15,330 - Processing MANZZAR by Lege-Cy...
+2025-05-31 01:37:22,664 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - MANZZAR.mp3
+2025-05-31 01:37:22,666 - Processing Kaza W Kaza by Lege-Cy...
+2025-05-31 01:37:31,854 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Kaza W Kaza.mp3
+2025-05-31 01:37:31,856 - Processing Plan-B by Lege-Cy...
+2025-05-31 01:37:39,454 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Plan-B.mp3
+2025-05-31 01:37:39,456 - Processing Wa7ed Tany by Sherif Abdelmeged...
+2025-05-31 01:37:47,072 - Error downloading video for Wa7ed Tany: [0;31mERROR:[0m The downloaded file is empty
+2025-05-31 01:37:53,559 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Sherif Abdelmeged - Wa7ed Tany.mp3
+2025-05-31 01:37:53,561 - Processing MA3KOOS (OUTRO) by HADY MOAMER...
+2025-05-31 01:38:09,099 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\HADY MOAMER - MA3KOOS (OUTRO).mp3
+2025-05-31 01:38:09,102 - Processing Yakhoya by Lege-Cy...
+2025-05-31 01:38:18,329 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - Yakhoya.mp3
+2025-05-31 01:38:18,331 - Processing Tool Mahna Maa Baad (Coke Studio Egypt 2023) by Hassan El Shafei...
+2025-05-31 01:38:28,123 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Hassan El Shafei - Tool Mahna Maa Baad (Coke Studio Egypt 2023).mp3
+2025-05-31 01:38:28,125 - Processing Kuwabes by Batistuta...
+2025-05-31 01:38:38,752 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Batistuta - Kuwabes.mp3
+2025-05-31 01:38:38,754 - Processing Ala El Hadi by Moayad...
+2025-05-31 01:38:49,462 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Moayad - Ala El Hadi.mp3
+2025-05-31 01:38:49,464 - Processing Msh Da Elle Ekhtarto - REMIX by NABO THE DANGER BOY...
+2025-05-31 01:39:02,763 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\NABO THE DANGER BOY - Msh Da Elle Ekhtarto - REMIX.mp3
+2025-05-31 01:39:02,765 - Processing LAW NASYANY by Lege-Cy...
+2025-05-31 01:39:12,373 - Downloaded successfully: D:/Music/New folder\This_Is_Lege-Cy_(2)\Lege-Cy - LAW NASYANY.mp3
+2025-05-31 01:39:12,375 - Download completed for playlist.
